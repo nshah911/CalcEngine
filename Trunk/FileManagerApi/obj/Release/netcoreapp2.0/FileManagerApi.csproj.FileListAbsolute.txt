@@ -1,0 +1,17 @@
+C:\TFS01\Apps\Work\IUSCalcEngine\Trunk\FileManagerApi\bin\Release\netcoreapp2.0\nlog.config
+C:\TFS01\Apps\Work\IUSCalcEngine\Trunk\FileManagerApi\bin\Release\netcoreapp2.0\FileManagerApi.deps.json
+C:\TFS01\Apps\Work\IUSCalcEngine\Trunk\FileManagerApi\bin\Release\netcoreapp2.0\FileManagerApi.runtimeconfig.json
+C:\TFS01\Apps\Work\IUSCalcEngine\Trunk\FileManagerApi\bin\Release\netcoreapp2.0\FileManagerApi.runtimeconfig.dev.json
+C:\TFS01\Apps\Work\IUSCalcEngine\Trunk\FileManagerApi\bin\Release\netcoreapp2.0\FileManagerApi.dll
+C:\TFS01\Apps\Work\IUSCalcEngine\Trunk\FileManagerApi\bin\Release\netcoreapp2.0\FileManagerApi.pdb
+C:\TFS01\Apps\Work\IUSCalcEngine\Trunk\FileManagerApi\bin\Release\netcoreapp2.0\CalcEngine.Models.dll
+C:\TFS01\Apps\Work\IUSCalcEngine\Trunk\FileManagerApi\bin\Release\netcoreapp2.0\CalcEngine.Models.pdb
+C:\TFS01\Apps\Work\IUSCalcEngine\Trunk\FileManagerApi\obj\Release\netcoreapp2.0\FileManagerApi.csprojAssemblyReference.cache
+C:\TFS01\Apps\Work\IUSCalcEngine\Trunk\FileManagerApi\obj\Release\netcoreapp2.0\FileManagerApi.csproj.CoreCompileInputs.cache
+C:\TFS01\Apps\Work\IUSCalcEngine\Trunk\FileManagerApi\obj\Release\netcoreapp2.0\FileManagerApi.AssemblyInfoInputs.cache
+C:\TFS01\Apps\Work\IUSCalcEngine\Trunk\FileManagerApi\obj\Release\netcoreapp2.0\FileManagerApi.AssemblyInfo.cs
+C:\TFS01\Apps\Work\IUSCalcEngine\Trunk\FileManagerApi\obj\Release\netcoreapp2.0\FileManagerApi.csproj.CopyComplete
+C:\TFS01\Apps\Work\IUSCalcEngine\Trunk\FileManagerApi\obj\Release\netcoreapp2.0\FileManagerApi.dll
+C:\TFS01\Apps\Work\IUSCalcEngine\Trunk\FileManagerApi\obj\Release\netcoreapp2.0\FileManagerApi.pdb
+C:\TFS01\Apps\Work\IUSCalcEngine\Trunk\FileManagerApi\bin\Release\netcoreapp2.0\CalcEngine.Logging.dll
+C:\TFS01\Apps\Work\IUSCalcEngine\Trunk\FileManagerApi\bin\Release\netcoreapp2.0\CalcEngine.Logging.pdb

@@ -1,0 +1,140 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileManagerApi", "FileManagerApi\FileManagerApi.csproj", "{5029112A-54ED-440A-A6E8-C5CA86171E35}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalcEngine.Models", "IUSCalcEngine.Models\CalcEngine.Models.csproj", "{51EF55F2-9A31-402D-B9A4-5854FD19E1E6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MismoCalcs.Interface", "MismoCalcs.Interface\MismoCalcs.Interface.csproj", "{B45810C7-0E7D-46D6-9583-7DF46048146D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalcEngine.Calcs", "MismoCalcs\CalcEngine.Calcs.csproj", "{46EF3D4B-C7F5-4964-8CC8-A2D40DE91CAE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MismoCalcs.Implementation", "MismoCalcs.Implementation\MismoCalcs.Implementation.csproj", "{05D22F21-D6F3-4BBD-8D23-C9AB9588BBE8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MismoCalcs.Implementation.Tests", "MismoCalcs.Implementation.Tests\MismoCalcs.Implementation.Tests.csproj", "{7B7148DE-4C1E-4286-923F-F43C3B89664D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalcEngine.Models.Mapper", "CalcEngine.Models.Mapper\CalcEngine.Models.Mapper.csproj", "{99474A16-E5F4-495E-AF48-7E33075F9646}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalcEngine.API", "CalcEngine.API\CalcEngine.API.csproj", "{452F7403-00FE-4005-BC85-F058B0552949}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalcEngine.Api.Tests", "CalcEngine.Api.Tests\CalcEngine.Api.Tests.csproj", "{E6447266-391B-4AA5-B5AE-1CF1F592AA70}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalcEngine.Models.Mapper.Tests", "CalcEngine.Models.Mapper.Tests\CalcEngine.Models.Mapper.Tests.csproj", "{1700164F-B4A1-4E86-BB47-F264B1DDBE23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcEngine.Logging", "CalcEngine.Logging\CalcEngine.Logging.csproj", "{BDC6889A-5973-42CD-954D-22D7301AB46E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5029112A-54ED-440A-A6E8-C5CA86171E35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5029112A-54ED-440A-A6E8-C5CA86171E35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5029112A-54ED-440A-A6E8-C5CA86171E35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5029112A-54ED-440A-A6E8-C5CA86171E35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51EF55F2-9A31-402D-B9A4-5854FD19E1E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51EF55F2-9A31-402D-B9A4-5854FD19E1E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51EF55F2-9A31-402D-B9A4-5854FD19E1E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51EF55F2-9A31-402D-B9A4-5854FD19E1E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B45810C7-0E7D-46D6-9583-7DF46048146D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B45810C7-0E7D-46D6-9583-7DF46048146D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B45810C7-0E7D-46D6-9583-7DF46048146D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B45810C7-0E7D-46D6-9583-7DF46048146D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46EF3D4B-C7F5-4964-8CC8-A2D40DE91CAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46EF3D4B-C7F5-4964-8CC8-A2D40DE91CAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46EF3D4B-C7F5-4964-8CC8-A2D40DE91CAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46EF3D4B-C7F5-4964-8CC8-A2D40DE91CAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05D22F21-D6F3-4BBD-8D23-C9AB9588BBE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05D22F21-D6F3-4BBD-8D23-C9AB9588BBE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05D22F21-D6F3-4BBD-8D23-C9AB9588BBE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05D22F21-D6F3-4BBD-8D23-C9AB9588BBE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B7148DE-4C1E-4286-923F-F43C3B89664D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B7148DE-4C1E-4286-923F-F43C3B89664D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B7148DE-4C1E-4286-923F-F43C3B89664D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B7148DE-4C1E-4286-923F-F43C3B89664D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99474A16-E5F4-495E-AF48-7E33075F9646}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99474A16-E5F4-495E-AF48-7E33075F9646}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99474A16-E5F4-495E-AF48-7E33075F9646}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99474A16-E5F4-495E-AF48-7E33075F9646}.Release|Any CPU.Build.0 = Release|Any CPU
+		{452F7403-00FE-4005-BC85-F058B0552949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{452F7403-00FE-4005-BC85-F058B0552949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{452F7403-00FE-4005-BC85-F058B0552949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{452F7403-00FE-4005-BC85-F058B0552949}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6447266-391B-4AA5-B5AE-1CF1F592AA70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6447266-391B-4AA5-B5AE-1CF1F592AA70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6447266-391B-4AA5-B5AE-1CF1F592AA70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6447266-391B-4AA5-B5AE-1CF1F592AA70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1700164F-B4A1-4E86-BB47-F264B1DDBE23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1700164F-B4A1-4E86-BB47-F264B1DDBE23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1700164F-B4A1-4E86-BB47-F264B1DDBE23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1700164F-B4A1-4E86-BB47-F264B1DDBE23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDC6889A-5973-42CD-954D-22D7301AB46E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDC6889A-5973-42CD-954D-22D7301AB46E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDC6889A-5973-42CD-954D-22D7301AB46E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDC6889A-5973-42CD-954D-22D7301AB46E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23410E07-92CC-44F0-A9BF-6664F4831635}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 10
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://az-tfs01:8080/tfs/impac
+		SccProjectUniqueName0 = FileManagerApi\\FileManagerApi.csproj
+		SccProjectName0 = FileManagerApi
+		SccAuxPath0 = http://az-tfs01:8080/tfs/impac
+		SccLocalPath0 = FileManagerApi
+		SccProvider0 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccProjectUniqueName1 = IUSCalcEngine.Models\\CalcEngine.Models.csproj
+		SccProjectName1 = IUSCalcEngine.Models
+		SccAuxPath1 = http://az-tfs01:8080/tfs/impac
+		SccLocalPath1 = IUSCalcEngine.Models
+		SccProvider1 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccProjectUniqueName2 = MismoCalcs.Interface\\MismoCalcs.Interface.csproj
+		SccProjectName2 = MismoCalcs.Interface
+		SccAuxPath2 = http://az-tfs01:8080/tfs/impac
+		SccLocalPath2 = MismoCalcs.Interface
+		SccProvider2 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccProjectUniqueName3 = MismoCalcs\\CalcEngine.Calcs.csproj
+		SccProjectName3 = MismoCalcs
+		SccAuxPath3 = http://az-tfs01:8080/tfs/impac
+		SccLocalPath3 = MismoCalcs
+		SccProvider3 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccProjectUniqueName4 = MismoCalcs.Implementation\\MismoCalcs.Implementation.csproj
+		SccProjectName4 = MismoCalcs.Implementation
+		SccAuxPath4 = http://az-tfs01:8080/tfs/impac
+		SccLocalPath4 = MismoCalcs.Implementation
+		SccProvider4 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccProjectUniqueName5 = MismoCalcs.Implementation.Tests\\MismoCalcs.Implementation.Tests.csproj
+		SccProjectName5 = MismoCalcs.Implementation.Tests
+		SccAuxPath5 = http://az-tfs01:8080/tfs/impac
+		SccLocalPath5 = MismoCalcs.Implementation.Tests
+		SccProvider5 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccProjectUniqueName6 = CalcEngine.Models.Mapper\\CalcEngine.Models.Mapper.csproj
+		SccProjectName6 = CalcEngine.Models.Mapper
+		SccAuxPath6 = http://az-tfs01:8080/tfs/impac
+		SccLocalPath6 = CalcEngine.Models.Mapper
+		SccProvider6 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccProjectUniqueName7 = CalcEngine.API\\CalcEngine.API.csproj
+		SccProjectName7 = CalcEngine.API
+		SccAuxPath7 = http://az-tfs01:8080/tfs/impac
+		SccLocalPath7 = CalcEngine.API
+		SccProvider7 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccProjectUniqueName8 = CalcEngine.Api.Tests\\CalcEngine.Api.Tests.csproj
+		SccProjectName8 = CalcEngine.Api.Tests
+		SccAuxPath8 = http://az-tfs01:8080/tfs/impac
+		SccLocalPath8 = CalcEngine.Api.Tests
+		SccProvider8 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccProjectUniqueName9 = CalcEngine.Models.Mapper.Tests\\CalcEngine.Models.Mapper.Tests.csproj
+		SccProjectName9 = CalcEngine.Models.Mapper.Tests
+		SccAuxPath9 = http://az-tfs01:8080/tfs/impac
+		SccLocalPath9 = CalcEngine.Models.Mapper.Tests
+		SccProvider9 = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+	EndGlobalSection
+EndGlobal

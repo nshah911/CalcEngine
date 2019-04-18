@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore" Version="2.1.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\IUSCalcEngine.Models\CalcEngine.Models.csproj" />
+    <ProjectReference Include="..\MismoCalcs.Implementation\MismoCalcs.Implementation.csproj" />
+    <ProjectReference Include="..\MismoCalcs.Interface\MismoCalcs.Interface.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="AssetQualifier\" />
+    <Folder Include="BankStatement\" />
+    <Folder Include="AgencyPlus\" />
+  </ItemGroup>
+
+</Project>

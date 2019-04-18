@@ -1,0 +1,12 @@
+C:\TFS01\Apps\Work\IUSCalcEngine\Trunk\MismoCalcs.Interface\bin\Release\netcoreapp2.0\MismoCalcs.Interface.deps.json
+C:\TFS01\Apps\Work\IUSCalcEngine\Trunk\MismoCalcs.Interface\bin\Release\netcoreapp2.0\MismoCalcs.Interface.dll
+C:\TFS01\Apps\Work\IUSCalcEngine\Trunk\MismoCalcs.Interface\bin\Release\netcoreapp2.0\MismoCalcs.Interface.pdb
+C:\TFS01\Apps\Work\IUSCalcEngine\Trunk\MismoCalcs.Interface\bin\Release\netcoreapp2.0\CalcEngine.Models.dll
+C:\TFS01\Apps\Work\IUSCalcEngine\Trunk\MismoCalcs.Interface\bin\Release\netcoreapp2.0\CalcEngine.Models.pdb
+C:\TFS01\Apps\Work\IUSCalcEngine\Trunk\MismoCalcs.Interface\obj\Release\netcoreapp2.0\MismoCalcs.Interface.csprojAssemblyReference.cache
+C:\TFS01\Apps\Work\IUSCalcEngine\Trunk\MismoCalcs.Interface\obj\Release\netcoreapp2.0\MismoCalcs.Interface.csproj.CoreCompileInputs.cache
+C:\TFS01\Apps\Work\IUSCalcEngine\Trunk\MismoCalcs.Interface\obj\Release\netcoreapp2.0\MismoCalcs.Interface.AssemblyInfoInputs.cache
+C:\TFS01\Apps\Work\IUSCalcEngine\Trunk\MismoCalcs.Interface\obj\Release\netcoreapp2.0\MismoCalcs.Interface.AssemblyInfo.cs
+C:\TFS01\Apps\Work\IUSCalcEngine\Trunk\MismoCalcs.Interface\obj\Release\netcoreapp2.0\MismoCalcs.Interface.csproj.CopyComplete
+C:\TFS01\Apps\Work\IUSCalcEngine\Trunk\MismoCalcs.Interface\obj\Release\netcoreapp2.0\MismoCalcs.Interface.dll
+C:\TFS01\Apps\Work\IUSCalcEngine\Trunk\MismoCalcs.Interface\obj\Release\netcoreapp2.0\MismoCalcs.Interface.pdb

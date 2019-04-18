@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\TFS01\Apps\Work\IUSCalcEngine\Trunk\FileManagerApi\obj\Release\netcoreapp2.0\win-x64\PubTmp\Out\" />
+</sitemanifest>

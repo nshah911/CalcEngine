@@ -1,0 +1,9 @@
+C:\TFS01\Apps\Work\IUSCalcEngine\Trunk\CalcEngine.Logging\bin\Release\netcoreapp2.0\CalcEngine.Logging.deps.json
+C:\TFS01\Apps\Work\IUSCalcEngine\Trunk\CalcEngine.Logging\bin\Release\netcoreapp2.0\CalcEngine.Logging.dll
+C:\TFS01\Apps\Work\IUSCalcEngine\Trunk\CalcEngine.Logging\bin\Release\netcoreapp2.0\CalcEngine.Logging.pdb
+C:\TFS01\Apps\Work\IUSCalcEngine\Trunk\CalcEngine.Logging\obj\Release\netcoreapp2.0\CalcEngine.Logging.csprojAssemblyReference.cache
+C:\TFS01\Apps\Work\IUSCalcEngine\Trunk\CalcEngine.Logging\obj\Release\netcoreapp2.0\CalcEngine.Logging.csproj.CoreCompileInputs.cache
+C:\TFS01\Apps\Work\IUSCalcEngine\Trunk\CalcEngine.Logging\obj\Release\netcoreapp2.0\CalcEngine.Logging.AssemblyInfoInputs.cache
+C:\TFS01\Apps\Work\IUSCalcEngine\Trunk\CalcEngine.Logging\obj\Release\netcoreapp2.0\CalcEngine.Logging.AssemblyInfo.cs
+C:\TFS01\Apps\Work\IUSCalcEngine\Trunk\CalcEngine.Logging\obj\Release\netcoreapp2.0\CalcEngine.Logging.dll
+C:\TFS01\Apps\Work\IUSCalcEngine\Trunk\CalcEngine.Logging\obj\Release\netcoreapp2.0\CalcEngine.Logging.pdb
